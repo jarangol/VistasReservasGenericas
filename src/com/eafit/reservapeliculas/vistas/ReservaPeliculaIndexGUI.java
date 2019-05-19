@@ -72,7 +72,7 @@ public class ReservaPeliculaIndexGUI extends javax.swing.JFrame {
 
     private void reservarPeliculaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_reservarPeliculaActionPerformed
         // TODO add your handling code here:
-        AgregarReservaGUI agregarReservaGUI = new AgregarReservaGUI();
+        AgregarReservaPeliculaGUI agregarReservaGUI = new AgregarReservaPeliculaGUI();
         agregarReservaGUI.setVisible(true);
     }//GEN-LAST:event_reservarPeliculaActionPerformed
 
