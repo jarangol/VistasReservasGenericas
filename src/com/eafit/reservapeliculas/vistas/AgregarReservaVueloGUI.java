@@ -9,12 +9,12 @@ package com.eafit.reservapeliculas.vistas;
  *
  * @author admin
  */
-public class AgregarReservaVuelo extends javax.swing.JFrame {
+public class AgregarReservaVueloGUI extends javax.swing.JFrame {
 
     /**
      * Creates new form AgregarReservaGUI
      */
-    public AgregarReservaVuelo() {
+    public AgregarReservaVueloGUI() {
         initComponents();
     }
 
